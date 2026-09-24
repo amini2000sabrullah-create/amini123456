@@ -1,0 +1,9 @@
+{
+  "name": "nexura-agency",
+  "version": "1.0.0",
+  "description": "Nexura — Digital Creative Agency static website",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
